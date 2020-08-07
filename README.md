@@ -1,4 +1,4 @@
-# Challenge for LinkApi
+# Challenge for Plataform Builders
 
 In this challenge I make a APP with React Native. This APP consumes the api [openweathermap](https://openweathermap.org/) for get information about the local temperature.
 
@@ -10,11 +10,14 @@ In this challenge I make a APP with React Native. This APP consumes the api [ope
 2. Install
    `npm install`
 
-3. Run
+3. Create a file .env
 
-   - For it you ned open two terminal
-     ⋅⋅1. Start React Native
-     `react-native start`
+   Create a new file .env in the root of your project
 
-   ⋅⋅2. Start the APP (You need the emulator)
+4. Run
+
+   3.1 Start React Native
+   `react-native start`
+
+   3.2. Start the APP in other terminal (You need the emulator)
    `npx react-native run-android`
